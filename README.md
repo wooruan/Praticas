@@ -1,3 +1,61 @@
 # Praticas
-Alguns execícios de fundamentos de programação em geral, em python.
-Desde operações matemáticas básicas até funções, laços e jogos no terminal.
+
+Repositório destinado ao armazenamento e organização dos exercícios resolvidos de Python.
+
+## Lista de Exercícios
+
+- 017: Hipotenusa - modulo math
+- 018: Seno, cosseno e tangente - modulo math
+- 019: Sorteio de nome - modulo random
+- 020: Sorteio de ordem - modulo random
+- 021: Tocar mp3 - modulo pygame
+- 022: Analisar strings - metodos de string
+- 023: Separar digitos - matematica ou string
+- 024: Verificar inicio de texto - metodos de string
+- 025: Procurar texto em string - metodos de string
+- 026: Contagem e posicao em string - metodos de string
+- 027: Primeiro e ultimo nome - manipulacao de string
+- 028: Jogo de adivinhacao - condicao
+- 029: Radar de velocidade - condicao
+- 030: Par ou impar - condicao
+- 031: Custo da viagem - condicao
+- 032: Ano bissexto - condicao
+- 033: Maior e menor numero - condicao
+- 034: Aumento salarial - condicao
+- 035: Analisar triangulos - condicao
+- 036: Emprestimo bancario - condicao
+- 037: Conversao de bases - condicao
+- 038: Comparador de numeros - condicao
+- 039: Alistamento militar - condicao
+- 040: Media escolar - condicao
+- 041: Classificacao de atletas - condicao
+- 042: Analise de triangulos v2 - condicao
+- 043: IMC - condicao
+- 044: Gerenciador de pagamentos - condicao
+- 045: Jogo pedra, papel e tesoura - condicao
+- 046: Contagem regressiva - laco for
+- 047: Numeros pares - laco for
+- 048: Soma de impares multiplos de 3 - laco for
+- 049: Tabuada v2 - laco for
+- 050: Soma de pares - laco for
+- 051: Progressao aritmetica - laco for
+- 052: Numeros primos - laco for
+- 053: Detector de palindromos - laco for
+- 054: Grupo de maioridade - laco for
+- 055: Maior e menor peso - laco for
+- 056: Analisador completo - laco for
+- 057: Validacao de dados - laco while
+- 058: Jogo de adivinhacao v2 - laco while
+- 059: Menu de operacoes - laco while
+- 060: Calculo de fatorial - laco while
+- 061: Progressao aritmetica v2 - laco while
+- 062: Progressao aritmetica v3 - laco while
+- 063: Sequencia de fibonacci - laco while
+- 064: Tratamento de valores - laco while
+- 065: Maior e menor valor - laco while
+- 066: Varios numeros com flag - laco while
+- 067: Tabuada v3 - laco while
+- 068: Jogo par ou impar - laco while
+- 069: Analise de dados - laco while
+- 070: Estatisticas em produtos - laco while
+- 071: Simulador de caixa eletronico - laco while
