@@ -1,6 +1,6 @@
 # Praticas
 
-Repositório destinado ao armazenamento e organização dos exercícios resolvidos de Python.
+Repositório destinado ao armazenamento e organização de exercícios resolvidos em Python.
 
 ## Lista de Exercícios
 
