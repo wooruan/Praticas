@@ -1,11 +1,5 @@
 import random
-i = 0
-while True:
-    tupla = []
-    tupla[i] = random.randint(0, 5)
-    i += 1
-    if i == 5:
-        break
+tupla = (random.randint(0, 5),random.randint(0, 5),random.randint(0, 5),random.randint(0, 5),random.randint(0, 5))
 print (tupla)
 maior = 0
 menor = tupla[0]
