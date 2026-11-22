@@ -64,6 +64,3 @@ O projeto possui uma apresentação em vídeo disponibilizada no YouTube, explic
 
 **Link do vídeo:** [https://youtu.be/RoO6BMRJhgA]
 
-## Observações
-
-A execução completa foi apresentada no terminal, mas a correção dos resultados e a reprodutibilidade do processamento dos dados precisam ser verificadas antes da entrega final.
